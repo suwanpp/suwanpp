@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-출처: https://hulrud.tistory.com/3 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=높이150%&section=header&text=suwan&fontSize=20px" />
+ 
 <!--타이틀 부분-->
 <div align="center">
     
