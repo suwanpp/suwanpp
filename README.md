@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=높이150%&section=header&text=suwan&fontSize=20px" />
- 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"/>
 <!--타이틀 부분-->
 <div align="center">
     
